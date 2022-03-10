@@ -5,6 +5,6 @@ My Fourth Capstone Project
 	* **register new users**
 	* **add new tasks**
 	* **view all tasks**
-	* ** view individual tasks**
+	* **view individual tasks**
 	* **view statistics**
 	* **generate reports**
