@@ -2,6 +2,21 @@
 My Fourth Capstone Project
 * A task management program that takes user inputs through the following:*
 
+
+# Table of contents
+* [Introduction](#task-manager)
+* [What the project does](#what-this-project-does) 
+* [How does it work](#how-does-it-work)
+* [Detailed Summary](#detailed-summary) 
+* [How is a user created](#how-is-the-user-created) 
+* [How is a task created](#how-is-a-task-added)
+* [How is a project edited](#how-is-the-project-edited) 
+* [How is a project viewed](#how-is-the-task-viewed) 
+* [How is a contractor edited](#how-are-reports-and-statistics) 
+
+* [Technologies](#technologies)
+* [Setup](#setup)
+
 ## WHAT THIS PROJECT DOES
 * Helps with task management!
 * *This is achieved in any of the following ways*
@@ -35,7 +50,7 @@ In a basic summary, the program works by
 
    Any user can add a task after logging in, selecting and giving inputs the option via prompts.
 
-### How is the project viewed?
+### How is the task viewed?
 
 The user has multiple options
 
@@ -44,7 +59,7 @@ The user has multiple options
 
    After selecting from these, the user can have their desired choice printed to screen.
 
-### How is are reports viewed?
+### How is are reports and statistics viewed?
 
 The admin has multiple options
 
